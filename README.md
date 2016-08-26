@@ -4,6 +4,7 @@
 
 ## 帮助文档
 
+- [官方文档] (http://facebook.github.io/react-native/docs/getting-started.html#content)
 - [ReactNative官方中文文档0.21] (http://www.cnblogs.com/suxun/archive/2016/03/11/5266001.html)
 
 ## 开源项目
