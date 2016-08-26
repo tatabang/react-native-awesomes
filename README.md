@@ -1,3 +1,6 @@
+## 学习资料
+
+- [React-Native入门指南] (https://github.com/vczero/react-native-lesson)
 
 ## 帮助文档
 
