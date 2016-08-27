@@ -6,6 +6,7 @@
 ## 入门
 
 - [React-Native入门指南] (https://github.com/vczero/react-native-lesson)
+- [从零到1让你学会搭建一个APP] (https://github.com/febobo/react-native-redux-FeInn)
 
 ## 帮助文档
 
