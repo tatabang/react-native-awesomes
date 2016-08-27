@@ -1,6 +1,7 @@
 ## 学习资料
 
 - [React Native指南] (https://github.com/reactnativecn/react-native-guide)
+- [React Native中文网] (http://reactnative.cn/)
 
 ## 入门
 
