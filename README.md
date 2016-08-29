@@ -32,6 +32,12 @@
 ## 组件
 
 - [NativeBase(Native 基础组件)] (https://github.com/GeekyAnts/NativeBase)
+- [微信分享](https://github.com/weflex/react-native-wechat)
+- [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator)
+- [react-native-storage](https://github.com/sunnylqm/react-native-storage)
+- [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
 
 ## 框架
 
