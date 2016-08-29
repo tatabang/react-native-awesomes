@@ -3,6 +3,7 @@
 - [React Native指南] (https://github.com/reactnativecn/react-native-guide)
 - [React Native中文网] (http://reactnative.cn/)
 - [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
 
 ## 入门
 
