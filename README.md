@@ -28,6 +28,7 @@
 
 - [ReactNative-LiveTemplate(代码提示 webstorm中使用)] (https://github.com/virtoolswebplayer/ReactNative-LiveTemplate)
 - [React-Native-Remote-Update(热更新)] (https://github.com/fengjundev/React-Native-Remote-Update)
+- [npmjs](https://www.npmjs.com)
 
 ## 组件
 
