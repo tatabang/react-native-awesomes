@@ -44,5 +44,7 @@
 
 - [React Native Starter App with NativeBase + CodePush + Redux] (https://github.com/start-react/native-starter-kit)
 
+## 其他
 
+- [Flex 布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
