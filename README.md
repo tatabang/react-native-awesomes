@@ -9,6 +9,7 @@
 
 - [React-Native入门指南] (https://github.com/vczero/react-native-lesson)
 - [从零到1让你学会搭建一个APP] (https://github.com/febobo/react-native-redux-FeInn)
+- [React 入门教程 gitbook](https://www.gitbook.com/book/hulufei/react-tutorial/details)
 
 ## 帮助文档
 
