@@ -24,6 +24,7 @@
 - [基于 React-Native & 豆瓣Open API 开发搜索App] (https://github.com/vczero/React-Dou)
 - [React Native开发嘎嘎商城客户端] (https://github.com/jiangqqlmj/GaGaMall)
 - [React-Native牛刀小试仿京] (https://github.com/sunnycn2013/HelloWorld)
+- [shopping-react-native](https://github.com/bigsui/shopping-react-native)
 
 ## 工具
 
