@@ -26,6 +26,7 @@
 - [React-Native牛刀小试仿京] (https://github.com/sunnycn2013/HelloWorld)
 - [shopping-react-native](https://github.com/bigsui/shopping-react-native)
 - [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
+- [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
 
 ## 工具
 
