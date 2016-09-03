@@ -28,6 +28,8 @@
 - [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
 - [A-ReactNative-TesterHome](https://github.com/qddegtya/A-ReactNative-TesterHome)
+- [react-native-DaidaiHelperNew(Listview展示”贷贷助手” app)](https://github.com/liuhongjun719/react-native-DaidaiHelperNew)
+- [react-native-BabyHealth-(仿 “宝宝健康” app)](https://github.com/liuhongjun719/react-native-BabyHealth-)
 
 ## 工具
 
