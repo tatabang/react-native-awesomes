@@ -18,6 +18,7 @@
 
 ## 开源项目
 
+- [react-native-exercise] (https://github.com/LIYINGZHEN/react-native-exercise)
 - [React-Native实战simple App] (https://github.com/vczero/React-Native-App)
 - [DoubanMovie] (https://github.com/fengjundev/DoubanMovie-React-Native)
 - [React Native 实例 - 新闻客户端] (https://github.com/SpikeKing/WclBBCNews)
