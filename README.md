@@ -59,3 +59,8 @@
 
 - [Flex 布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
+## 博客
+
+- [React Native 从入门到原理](http://www.jianshu.com/p/978c4bd3a759)
+
+
