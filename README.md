@@ -65,5 +65,7 @@
 ## 博客
 
 - [React Native 从入门到原理](http://www.jianshu.com/p/978c4bd3a759)
+- [一个上线了的React-Native的项目总结](http://react-china.org/t/react-native/3169)
+- [React Native商城项目实战](http://blog.csdn.net/github_26672553/article/details/52252608)
 
 
