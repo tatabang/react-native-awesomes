@@ -53,6 +53,7 @@
 - [react-native-storage](https://github.com/sunnylqm/react-native-storage)
 - [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view)
 - [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview)
+- [react-native-icons](https://github.com/corymsmith/react-native-icons)
 
 ## 框架
 
