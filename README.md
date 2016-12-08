@@ -69,6 +69,7 @@
 - [React Native商城项目实战](http://blog.csdn.net/github_26672553/article/details/52252608)
 - [React Native从零开始 -- 搭建环境（Windows）& 创建项目](http://www.jianshu.com/p/75823b58eb44)
 - [用Sublime 3作为React Native的开发IDE](http://www.jianshu.com/p/2ddfff095e90)
+- [WebStorm 2016 最新版激活](https://www.cnblogs.com/woaic/p/6024975.html)
 
 
 
