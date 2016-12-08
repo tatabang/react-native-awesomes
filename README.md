@@ -4,6 +4,8 @@
 - [React Native中文网] (http://reactnative.cn/)
 - [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [Redux 中文文档](http://cn.redux.js.org/index.html)
+
 
 ## 入门
 
