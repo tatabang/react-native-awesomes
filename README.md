@@ -34,7 +34,7 @@
 - [yingping_rn(甘豆影评)](https://github.com/ganguo/yingping_rn)
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
 - [ReactNative_Shopping](https://github.com/JasonStu/ReactNative_Shopping)
-
+- [EleTeam开源项目 - 电商全套解决方案之 React Native 版 - Shop-React-Native](https://github.com/EleTeam/Shop-React-Native)
 
 
 ## 工具
