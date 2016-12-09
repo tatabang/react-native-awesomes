@@ -1,5 +1,6 @@
 ## 学习资料
 
+- [React-Native学习指南] (http://68xg.com/reactnative/63.html)
 - [React Native指南] (https://github.com/reactnativecn/react-native-guide)
 - [React Native中文网] (http://reactnative.cn/)
 - [react-redux-tutorial](https://github.com/lewis617/react-redux-tutorial)
