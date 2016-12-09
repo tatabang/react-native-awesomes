@@ -48,6 +48,7 @@
 
 ## 组件
 
+- [第三方组件推荐] (http://68xg.com/reactnative/78.html)
 - [NativeBase(Native 基础组件)] (https://github.com/GeekyAnts/NativeBase)
 - [微信分享](https://github.com/weflex/react-native-wechat)
 - [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
