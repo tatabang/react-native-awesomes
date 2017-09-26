@@ -21,6 +21,7 @@
 
 ## 开源项目
 
+- [50 个完整的 React Native 项目] (http://www.jianshu.com/p/470606826b12)
 - [learning-react-native] (https://github.com/bonniee/learning-react-native)
 - [react-native-exercise] (https://github.com/LIYINGZHEN/react-native-exercise)
 - [React-Native实战simple App] (https://github.com/vczero/React-Native-App)
